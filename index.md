@@ -159,7 +159,7 @@ Export creates CSV or XLSX files containing account, transaction, and debt infor
 
 ## 4. Disclosure and sharing with third parties
 
-The current version has no online accounts, financial-record synchronization, bank connection, Cuentrol server, advertising, or direct analytics SDK. The reviewed production manifest does not declare Internet permission. Accordingly, Cuentrol does not itself send your financial records to a Cuentrol server or share them for advertising.
+The current version has no online accounts, financial record synchronization, bank connection, Cuentrol server, ads, or direct analytics SDK. Cuentrol does not use an internet connection. Therefore, Cuentrol does not itself send your financial records to a Cuentrol server or share them for advertising.
 
 Important exceptions depend on actions or external services:
 
